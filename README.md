@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is `Cola-Ace`, aka `kele`. A programmer for SourcePawn and Web, wanna do some interesting things.
+
 <!--
 **Cola-Ace/Cola-Ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
