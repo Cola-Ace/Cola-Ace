@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is `Cola-Ace`, aka `kele`, `Xc_ace`. A programmer for SourcePawn and Web, wanna do some interesting things.
+My name is `Cola-Ace`, aka `kele`, `Xc_ace`. I am a programmer proficient in Python, Web development, Node.js, and Golang, among other technologies. I would like to do some enjoyable activities.
 
 <!--
 **Cola-Ace/Cola-Ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
