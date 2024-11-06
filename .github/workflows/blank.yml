@@ -17,3 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: true
+          plugin_languages_other: true
+          plugin_lines: true
+          plugin_followup: true
+          plugin_achievements: true
