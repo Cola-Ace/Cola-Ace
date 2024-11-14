@@ -8,4 +8,4 @@ My name is `Cola-Ace`, aka `kele`, `Xc_ace`. I am a programmer proficient in Pyt
 ### ⚒ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,html,css,c,cs,cpp,discord,bots,docker,electron,express,fastapi,github,go,mysql,nginx,nodejs,npm,php,py,redis)](https://skillicons.dev)
 
-![Metrics](/github-metrics.svg)
+[![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
