@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       # - uses: lowlighter/metrics@latest
-      - uses: stalomeow/metrics@projects-v2
+      - uses: Cola-Ace/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: true
